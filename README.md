@@ -1,4 +1,4 @@
-# PIC-UIE
+# PIC-UIE: Predicting Image-Adaptive Corrections for Lightweight Underwater Image Enhancement
 
 The arXiv link will be added when it is available.
 
