@@ -6,10 +6,10 @@ PIC-UIE is a lightweight underwater image enhancement model in YCbCr space.
 Monocular depth is used only as training supervision. Inference takes RGB images and
 does not require depth maps.
 
-<video src="demo/videos/flsea_canyons_flatiron.mp4" controls></video>
-<video src="demo/videos/flsea_canyons_u_canyon.mp4" controls></video>
-<video src="demo/videos/flsea_red_sea_coral_table_loop.mp4" controls></video>
-<video src="demo/videos/flsea_red_sea_dice_path.mp4" controls></video>
+<video src="https://github.com/user-attachments/assets/fb21a1df-f5fa-4730-9e1a-858623aa6dd6" controls></video>
+<video src="https://github.com/user-attachments/assets/346acb8d-8c98-433b-9ac8-0b6970800392" controls></video>
+<video src="https://github.com/user-attachments/assets/196204f5-b69b-4dd8-ae56-c5e63b2a4e79" controls></video>
+<video src="https://github.com/user-attachments/assets/29f5d1a1-9f70-4e4b-80ba-7d000336e032" controls></video>
 
 The released checkpoint is `weights/pic_uie.pth`.
 
