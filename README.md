@@ -1,6 +1,6 @@
 # PIC-UIE: Predicting Image-Adaptive Corrections for Lightweight Underwater Image Enhancement
 
-The arXiv link will be added when it is available.
+Paper: https://arxiv.org/abs/2609.33318
 
 PIC-UIE is a lightweight underwater image enhancement model in YCbCr space.
 Monocular depth is used only as training supervision. Inference takes RGB images and
